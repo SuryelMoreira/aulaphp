@@ -7,13 +7,13 @@
 </head>
 <body>
     <?php
-        /$cunhado = "anglae";
+        /*$cunhado = "anglae";
         $nome_do_cunhado = strtoupper($cunhado);
-        echo $nome_do_cunhado;/
+        echo $nome_do_cunhado;*/
 
-        /$cunhado = "ANGLAE";
+        /*$cunhado = "ANGLAE";
         $nome_do_cunhado = strtolower(str)($cunhado);
-        echo $nome_do_cunhado;/
+        echo $nome_do_cunhado;*/
 
         $jogadora = "Sulamyta Moreira<br>";
         $parte = substr($jogadora, 5);
